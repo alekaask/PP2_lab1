@@ -1,0 +1,5 @@
+sentence = input ()
+target = input ()
+new = input ()
+
+print ( sentence.replace (target, new))
