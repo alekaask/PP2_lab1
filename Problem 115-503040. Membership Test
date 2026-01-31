@@ -1,0 +1,4 @@
+text= input()
+wprd= input()
+print (word in text)
+
