@@ -1,0 +1,2 @@
+s= inout()
+print (s{:-1)
